@@ -196,8 +196,8 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ilesoviy&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ilesoviy&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)<br/>
+![](https://github-readme-stats.vercel.app/api?username=fantastic0206&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fantastic0206&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hightop0924&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <!--
