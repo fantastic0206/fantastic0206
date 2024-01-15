@@ -1,7 +1,7 @@
 # 💫 About Me
-Senior Full-Stack with 5+ years of experience and Blockchain developer with 5 years of experience.<br>
+Senior Full-Stack developer with 5+ years of experience.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
-Highly skilled Blockchain engineer bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
+Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 - Like to make a development document with developing content to use that in the future.
 - Delivering perfect results by deadline.
 - Keeping good communication and work on the client's timezone.
