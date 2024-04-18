@@ -1,5 +1,5 @@
 # 💫 About Me
-Senior Full-Stack developer and Blockchain expert with 5+ years of experience.<br>
+Senior Full-Stack developer and Blockchain expert with 6+ years of experience.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 - Like to make a development document with developing content to use that in the future.
