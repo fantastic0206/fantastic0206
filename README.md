@@ -1,4 +1,4 @@
-# 💫 About Me
+![image](https://github.com/user-attachments/assets/0eb3d3b9-fe02-417d-a7f3-50e6674ca2b1)# 💫 About Me
 Senior Full-Stack developer | Heavy Front-end Developer and Blockchain expert with 7 years of professional experience.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
@@ -12,3 +12,8 @@ Able to effectively self-manage during independent projects, as well as collabor
 ---
 [![](https://visitcount.itsvg.in/api?id=ilesoviyicon=0&color=0)](https://visitcount.itsvg.in)
 -->
+
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=fantastic0206&show_icons=true&count_private=true&theme=algolia"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantastic0206&layout=compact&theme=algolia&count_private=true" /> 
+<img height="150px" />
