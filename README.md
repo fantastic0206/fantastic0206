@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0eb3d3b9-fe02-417d-a7f3-50e6674ca2b1)# 💫 About Me
+💫 About Me
 Senior Full-Stack developer | Heavy Front-end Developer and Blockchain expert with 7 years of professional experience.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
