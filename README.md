@@ -1,13 +1,12 @@
 💫 About Me
 
-Senior Full-Stack developer | Heavy Front-end Developer and Blockchain expert with 7 years of professional experience.<br>
-Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
-Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
-- Like to make a development document with developing content to use that in the future.
-- Delivering perfect results by deadline.
-- Keeping good communication and work on the client's timezone.
-- Ability for working with any team and prefer to share much knowledge with many developers.
-- Looking for an opportunity to build a long-term relationship with great clients all over the world.
+I am a Senior Full Stack Developer with extensive experience in developing and optimizing interactive front-end components and APIs, resulting in significant improvements in user engagement and data retrieval efficiency.
+My career includes roles at Seafair, AEIS LLC, Taioffices, and Freelancer, where I led development teams and delivered over 30 successful projects using technologies like React Native, JavaScript, Python, and TypeScript.
+My key accomplishments include migrating legacy systems to modern databases, achieving high customer satisfaction, and implementing robust security measures.
+I got a Bachelor's degree in Computer Science from University of Basel.
+
+With expertise in Agile methodologies and extensive experience using Jira, I effectively manage project workflows, ensuring efficient sprint planning, clear communication, and timely delivery of high-quality software solutions.
+I am proficient in Git for version control, I ensure smooth collaboration across teams, maintain clean code history, and manage branching strategies to support agile development and rapid feature deployment.
 
 <!--
 ---
