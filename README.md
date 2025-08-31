@@ -5,6 +5,8 @@ I am a Senior Full Stack Developer with extensive experience in developing and o
 With expertise in Agile methodologies and extensive experience using Jira, I effectively manage project workflows, ensuring efficient sprint planning, clear communication, and timely delivery of high-quality software solutions.
 I am proficient in Git for version control, I ensure smooth collaboration across teams, maintain clean code history, and manage branching strategies to support agile development and rapid feature deployment.
 
+<hr />
+
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=ilesoviyicon=0&color=0)](https://visitcount.itsvg.in)
